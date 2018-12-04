@@ -5,11 +5,19 @@ body {
   background-color: none; }
 
 .motion_hero_background {
-  background-color: #000000;
-  margin-top: 4rem; }
+  margin-bottom: auto;
+  margin-top: 4rem;
+  background: url(../img/starlight.jpg) center/cover no-repeat;
+  height: 30rem;
+  width: 100vw;
+  text-shadow: 2px #767676; }
 
 .motion_row_spacer {
   margin-top: 6rem;
   margin-bottom: 6rem; }
+
+.mini_row_spacer {
+  margin-top: 3rem;
+  margin-bottom: 3rem; }
 
 /*# sourceMappingURL=motion_style.css.map */
